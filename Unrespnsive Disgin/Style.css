@@ -1,0 +1,37 @@
+body{
+	margin:0;
+	padding:0;
+}
+.hader_area{
+	background:orange;
+	height:250px;
+}
+.left_area{
+	background:blue;
+	height:250px;
+	width:25%;
+	float:left;
+}
+.centar_area{
+	background:yellow;
+	height:250px;
+	width:50%;
+	float:left;
+}
+.right_area{
+	background:green;
+	height:250px;
+	width:25%;
+	float:left;
+}
+.total:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.footor_area{
+	background:red;
+	height:250px;
+	
+	
+}

@@ -1,0 +1,55 @@
+body{
+	margin:0;
+	padding:0;
+}
+.header-area{
+	background:blue;
+	width:100%;
+}
+.logo-area{
+	width:300px;
+	margin:auto;
+}
+.logo-area img{
+	width:100%;
+	
+}
+.main-area .content-area{
+	width:75%;
+	float:left;
+	margin-right:5%;
+}
+.main-area aside{
+	width:20%; 
+	overflow:hidden;
+	
+	
+}
+.sideber h2, article h2{
+	color:green;
+	font-family:tahoma;
+}
+.main-area{
+	width:90%;
+	margin:auto;
+}
+article p, aside{
+	font-family:tahoma;
+	font-size:19px;
+}
+.main-area:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+footer p{
+	font-family:tahoma;
+	font-size:20px;
+	text-align:center;
+	background:yellow;
+	padding:20px;
+	color:blue;	
+}
+.icon img{
+	width:20px;
+}

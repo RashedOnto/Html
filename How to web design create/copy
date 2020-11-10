@@ -1,0 +1,57 @@
+			<div><a href="http://facebook.com"><img src="facebook.png"/></a></div>
+			<div><a href="http://twitter.com"><img src="twitter.png"/></a></div>
+			<div><a href="http://youtube.com"><img src="youtube.png"/></a></div>
+			
+			
+				<div class="hero">
+	
+	<div class="nav-bar">
+	
+	<div class="nav-logo">
+		<img src="login.png">
+	</div>
+		<div class="nav-links">
+			<ul> 
+				<a href="#"><li>HOME</li></a>
+				<a href="#"><li>ABOUT</li></a>
+				<a href="#"><li>RECIPE</li></a>
+				<button type="button" class="btn-1">SIGN UP</button>
+			</ul>
+		</div>
+	</div>
+				
+		<div class="banner-title">
+			<h1>Food <span>Doesen't have<br>a religion.</span> It is a religion</h1>
+			<button type="button" class="btn-2">EXPLORE</button>
+			
+		</div>
+			<div class="all">
+			<div class="search-icon">
+				<i class="fa fa-th-list"></i>
+				<i class="fa fa-search"></i>
+			
+			</div>
+			
+			
+			<div class="video">
+			<video width="200" height="120"  controls>
+			<source src="hasbi_robbi.mp4" type="video/mp4">
+			</video>
+			</div>
+			
+			<div class="video-bar">
+				<h5>My Chanel Subscripe</h5>
+			</div>
+			
+			<div class="vartical-bar">
+			<div class="social-icon">
+				<i class="fa fa-facebook"></i>
+				<i class="fa fa-instagram"></i>
+				<i class="fa fa-twitter"></i>
+				<i class="fa fa-pinterest"></i>
+	
+			
+			</div>		
+			</div>
+			</div>
+			</div>

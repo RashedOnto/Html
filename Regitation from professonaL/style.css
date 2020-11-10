@@ -1,0 +1,37 @@
+body{
+	background-image:url(fault.jpg);
+    background-repeat:no-repeat;
+	background-size:cover;
+	
+	
+} 
+.from{
+	width:600px;
+	background:rgba(0, 0, 0, .4);
+	margin:150px auto;
+	padding:20px;
+	
+}
+.from input{
+	display:block;
+	font-size:18px;
+	padding:3px;
+	background:transparent;
+	border:2px solid yellow;
+	
+}
+.from label{
+	color:#fff;
+	cursor: pointer;
+	padding:5px, 0;
+	display:block;
+	font-size:20px;
+	font-family:tahoma;
+}
+.sub input {
+	background:green;
+	color:white;
+}
+.icon img{
+	float:right;	
+}
